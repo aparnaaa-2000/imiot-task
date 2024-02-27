@@ -1,0 +1,30 @@
+.drive{
+    height: 600%;
+    width: 20%;
+}
+.dady{
+    height: 80%;
+    width: 15%;
+    border: 1px solid gray;
+    border-radius: 7%;
+    text-align: center;
+    font-size: xx-large;
+    color: black;
+    font-weight: 700;
+}
+.soft{
+    color: navy;
+    font-family: "Nunito", sans-serif;
+
+}
+.ni{
+    display: flex;
+}
+.soft-curve{
+    border: 5px solid  rgb(85, 85, 220); 
+    border-radius: 5%;
+}
+.cs{
+    float: right;
+    color: rgb(167, 47, 47);
+}

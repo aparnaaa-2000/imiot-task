@@ -1,0 +1,48 @@
+.tr{
+    border: 5px solid  rgb(85, 85, 220); 
+    border-radius: 4%;
+}
+.py-img{
+    /* height: 90px;
+    width: 100px;
+    border: 1px solid rgb(191, 180, 180);
+    border-radius: 6%;
+    align-content: center; */
+    height: auto; width: auto;
+    padding-left: 15px;
+    border: 1px solid rgb(198, 186, 186);
+    border-radius: 8%;
+}
+.py-co{
+    color: navy;
+    font-size: large;
+    font-weight: 700;
+    font-family: "Nunito", sans-serif;
+
+}
+.py{
+    display: flex;
+    justify-content: space-evenly;
+}
+.dep-bt{
+    display: flex;
+    justify-content: space-evenly;
+}
+.btt{
+    /* padding: 10px; */
+    width: 20%;
+}
+.ind{
+    border: 2px solid  rgb(85, 85, 220); 
+    border-radius: 2%;
+
+}
+.tr-cl{
+    color: navy;
+    font-family: "Nunito", sans-serif;
+
+}
+.line{
+    display: flex;
+    justify-content: space-between;
+}

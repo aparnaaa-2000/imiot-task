@@ -1,0 +1,14 @@
+.h3{
+    color: orange;
+    font-family: "Nunito", sans-serif;
+    font-weight: 600;
+    padding: 10px;
+}
+.foot{
+    background-color: rgb(58, 123, 227);
+    display: flex;
+}
+.ver{
+    padding-top: 15px;
+    color: aliceblue;
+}

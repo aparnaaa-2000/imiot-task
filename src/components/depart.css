@@ -1,0 +1,36 @@
+#dep{
+    height: 100px; width: 100px;
+    padding-left: 15px;
+    border: 1px solid rgb(198, 186, 186);
+    border-radius: 8%;
+}
+#std{
+    color: black;
+    font-size: larger;
+      /* font-family: "Nunito", sans-serif; */
+
+    /* padding-left: 10px; */
+}
+.std-btn{
+    text-align: center;
+}
+.d{
+    font-size: xx-large;
+    font-weight: 700;
+    color: rgb(85, 85, 220);
+    font-family: "Nunito", sans-serif;
+
+}
+#hash{
+
+   color: navajowhite;
+
+
+}
+.hash {
+    border: 5px solid  rgb(85, 85, 220); 
+    border-radius: 9%;
+    /* Set the initial border color */
+    /* padding: 20px; */
+    /* Other styling properties for your card */
+  }

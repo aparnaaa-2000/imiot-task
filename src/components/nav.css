@@ -1,0 +1,54 @@
+#can{
+    color: blue;
+    /* font-size: x-large; */
+    font-weight: bold;
+}
+.fl{
+    /* display: flex; */
+}
+.l{
+    
+}
+.bell{
+    color: grey;
+}
+.account-image {
+    /* width: 2px;
+    height: 25px;
+    border-radius: 50%;
+    overflow: hidden; */
+   
+  }
+
+  .account-image img {
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+    /* border-radius: 50% ; */
+  }
+  .cont{
+    /* display: flex; */
+    /* justify-content: space-evenly; */
+  }
+  .share{
+    font-size: x-large;
+    font-weight: 700;
+    color: blue;
+     
+      font-family: "Nunito", sans-serif;
+      font-optical-sizing: auto;
+      /* font-weight: <weight>; */
+      /* font-style: normal; */
+    
+}
+.f{
+  font-family: "Nunito", sans-serif;
+  font-weight: 600;
+
+}
+  
+  .lo{
+    display: flex;
+    /* flex-direction: column; */
+  }
+ 

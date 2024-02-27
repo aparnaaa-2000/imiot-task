@@ -1,0 +1,10 @@
+.m{
+    display: flex;
+}
+.sec-style{
+    flex: 11;
+    background-color: rgb(213, 207, 207);
+}
+.aside-atyle{
+    background-color: whitesmoke;
+}
